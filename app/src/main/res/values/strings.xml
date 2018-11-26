@@ -1,13 +1,14 @@
 <resources>
-    <string name="app_name">PruebaInicioSecion</string>
+    <string name="app_name">CarpoolTEC</string>
     <string name="facebook_app_id">1175330259292683</string>
     <string name="fb_login_protocol_scheme">fb1175330259292683</string>
     <string name="cancel_login">Se canceló la opración</string>
     <string name="error_login">Ocurrió un error</string>
-    <string name="logout">Cerrar Sesion</string>
+    <string name="logout">Cerrar Seción</string>
     <string name="bienvenido">BIENVENIDO</string>
     <string name="iniSesion">Inicia sesion para continuar</string>
     <string name="escanea_tu_carn">Escanea tu carné</string>
     <string name="carn">Carné:</string>
     <string name="voids">_ _ _ _ _ _ _ _</string>
+    <string name="carpooltec">CarpoolTEC</string>
 </resources>
